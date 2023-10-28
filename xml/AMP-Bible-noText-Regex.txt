@@ -1,0 +1,4 @@
+AMP xml regex step(s)
+1. found (<VERS vnumber="\d+">) [A-Z\s\-\,\'\(\)\[\]\d+\;\:\".\!\?]+
+replaced with \1
+worked
